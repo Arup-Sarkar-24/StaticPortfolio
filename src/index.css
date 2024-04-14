@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 
 .a {
     animation: a is infinite;
